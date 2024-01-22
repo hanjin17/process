@@ -1,0 +1,3 @@
+package extensions
+
+trait FileExtension
